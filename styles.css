@@ -38,7 +38,7 @@ p {
 }
 
 img {
-  max-width: 100%; 
+  max-width: 150px; 
 }
 
 .card {
@@ -59,8 +59,8 @@ img {
 
 .box {
   display: flex; 
-  flex-wrap: wrap;
-  flex-direction: column;
+  /*flex-wrap: wrap;
+  flex-direction: column;*/
 }
 
 .cardtext {
@@ -73,7 +73,6 @@ img {
   max-width: 150px; 
   flex: 0 0 150px; 
   margin-left: 1em;
-
 }
 
 ul {
